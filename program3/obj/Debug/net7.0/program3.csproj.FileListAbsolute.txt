@@ -1,0 +1,14 @@
+E:\Rabota\homework\C_sharp\program3\bin\Debug\net7.0\program3.exe
+E:\Rabota\homework\C_sharp\program3\bin\Debug\net7.0\program3.deps.json
+E:\Rabota\homework\C_sharp\program3\bin\Debug\net7.0\program3.runtimeconfig.json
+E:\Rabota\homework\C_sharp\program3\bin\Debug\net7.0\program3.dll
+E:\Rabota\homework\C_sharp\program3\bin\Debug\net7.0\program3.pdb
+E:\Rabota\homework\C_sharp\program3\obj\Debug\net7.0\program3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rabota\homework\C_sharp\program3\obj\Debug\net7.0\program3.AssemblyInfoInputs.cache
+E:\Rabota\homework\C_sharp\program3\obj\Debug\net7.0\program3.AssemblyInfo.cs
+E:\Rabota\homework\C_sharp\program3\obj\Debug\net7.0\program3.csproj.CoreCompileInputs.cache
+E:\Rabota\homework\C_sharp\program3\obj\Debug\net7.0\program3.dll
+E:\Rabota\homework\C_sharp\program3\obj\Debug\net7.0\refint\program3.dll
+E:\Rabota\homework\C_sharp\program3\obj\Debug\net7.0\program3.pdb
+E:\Rabota\homework\C_sharp\program3\obj\Debug\net7.0\program3.genruntimeconfig.cache
+E:\Rabota\homework\C_sharp\program3\obj\Debug\net7.0\ref\program3.dll
