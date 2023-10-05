@@ -1,0 +1,14 @@
+E:\Rabota\homework\C_sharp\seminar8.2\obj\Debug\net7.0\seminar8.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rabota\homework\C_sharp\seminar8.2\obj\Debug\net7.0\seminar8.2.AssemblyInfoInputs.cache
+E:\Rabota\homework\C_sharp\seminar8.2\obj\Debug\net7.0\seminar8.2.AssemblyInfo.cs
+E:\Rabota\homework\C_sharp\seminar8.2\obj\Debug\net7.0\seminar8.2.csproj.CoreCompileInputs.cache
+E:\Rabota\homework\C_sharp\seminar8.2\bin\Debug\net7.0\seminar8.2.exe
+E:\Rabota\homework\C_sharp\seminar8.2\bin\Debug\net7.0\seminar8.2.deps.json
+E:\Rabota\homework\C_sharp\seminar8.2\bin\Debug\net7.0\seminar8.2.runtimeconfig.json
+E:\Rabota\homework\C_sharp\seminar8.2\bin\Debug\net7.0\seminar8.2.dll
+E:\Rabota\homework\C_sharp\seminar8.2\bin\Debug\net7.0\seminar8.2.pdb
+E:\Rabota\homework\C_sharp\seminar8.2\obj\Debug\net7.0\seminar8.2.dll
+E:\Rabota\homework\C_sharp\seminar8.2\obj\Debug\net7.0\refint\seminar8.2.dll
+E:\Rabota\homework\C_sharp\seminar8.2\obj\Debug\net7.0\seminar8.2.pdb
+E:\Rabota\homework\C_sharp\seminar8.2\obj\Debug\net7.0\seminar8.2.genruntimeconfig.cache
+E:\Rabota\homework\C_sharp\seminar8.2\obj\Debug\net7.0\ref\seminar8.2.dll
